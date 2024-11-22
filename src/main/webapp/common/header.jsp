@@ -41,49 +41,28 @@
 			        <ul class="nav-submenu">
 			            <li><a href="http://localhost/project2/sample.jsp">숙소리스트</a></li>
 			            <li><a href="#void">숙소등록</a></li>
-			            <li><a href="#void">예약관리</a></li>
-			            <li><a href="#void">???</a></li>
 			        </ul>
 			    </div>
 			    
 			    <div class="nav-item">
 			        <div class="nav-header">
-			            <span>객실관리</span>
+			            <span>예약관리</span>
 			            <i class="arrow"></i>
 			        </div>
 			        <ul class="nav-submenu">
-			            <li><a href="#void">객실리스트</a></li>
-			            <li><a href="#void">객실등록</a></li>
-			            <li><a href="#void">객실수정</a></li>
-			            <li><a href="#void">???</a></li>
-			        </ul>
-			    </div>
-			    
-			    <div class="nav-item">
-			        <div class="nav-header">
-			            <span>TEST</span>
-			            <i class="arrow"></i>
-			        </div>
-			        <ul class="nav-submenu">
-			            <li><a href="#void">테스트1</a></li>
-			            <li><a href="#void">테스트2</a></li>
-			            <li><a href="#void">테스트3</a></li>
-			            <li><a href="#void">테스트4</a></li>
+			            <li><a href="#void">예약목록 조회</a></li>
 			        </ul>
 			    </div>
 			
-			    <div class="menu-category">DASHBOARD</div>
+			    <div class="menu-category">MEMBERSHIP MANAGEMENT</div>
 			    
 			    <div class="nav-item">
 			        <div class="nav-header">
-			            <span>매출차트</span>
+			            <span>회원관리</span>
 			            <i class="arrow"></i>
 			        </div>
 			        <ul class="nav-submenu">
-			            <li><a href="#void">테스트1</a></li>
-			            <li><a href="#void">테스트2</a></li>
-			            <li><a href="#void">테스트3</a></li>
-			            <li><a href="#void">테스트4</a></li>
+			            <li><a href="#void">회원목록</a></li>
 			        </ul>
 			    </div>
 			</nav>
