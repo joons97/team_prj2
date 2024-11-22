@@ -27,8 +27,14 @@ $(function(){
 </script>
 </head>
 <body>
+<!-- webapp/list.jsp -->
+<%
+    request.setAttribute("contentPage", "../sample.jsp");
+%>
+<jsp:include page="common/header.jsp" />
 <div id="wrap">
-아아
+안녕
 </div>
+<jsp:include page="common/footer.jsp" />
 </body>
 </html>
